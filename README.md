@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-kang-tido&show_icons=true&locale=en" alt="kevin-kang-tido" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-kang-tido&" alt="kevin-kang-tido" /></p>
+
+   <div class="footer" style="margin-top: auto; text-align: center; width:100%;">
+        <img src="https://i.pinimg.com/originals/88/97/20/889720fb0226b68d513f1d2256f984c9.gif" alt="Programmer GIF" style="max-width: 100%;">
+    </div>
