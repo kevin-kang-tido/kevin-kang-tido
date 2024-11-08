@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot NextJs and Laravel**
+- 🌱 I’m currently also Researching about **BlockChain Hyperledger Fabric**
 
 - 📫 How to reach me **kaykang84@gmail.com**
 
