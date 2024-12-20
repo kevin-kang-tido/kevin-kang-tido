@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kay Kang</h1>
 <h3 align="center">passionate with Web Developments</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThwN3NlbTExNTZpOTNwamhxaGhrMmNpZ2puaGF5Z2IxZW9pNnk3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-kang-tido&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-kang-tido" /> </p>
@@ -30,3 +34,15 @@
    <div class="footer" style="margin-top: auto; text-align: center; width:100%;">
         <img src="https://i.pinimg.com/originals/88/97/20/889720fb0226b68d513f1d2256f984c9.gif" alt="Programmer GIF" style="max-width: 100%;">
     </div>
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Kay-Kang/Kay-Kang/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kay-Kang/count.svg?"  />
+</div>
+
