@@ -10,11 +10,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin-kang-tido&label=Profile%20views&color=0e75b6&style=flat" alt="kevin-kang-tido" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="left">
+  Go to my Old Github 
+  <a href="https://github.com/Kay-Kang" target="_blank">Kay-Kang</a>
+</h3>
 
 - 🌱 I’m currently learning **Spring Boot NextJs and Laravel**
 - 🌱 I’m currently also Researching about **BlockChain Hyperledger Fabric**
 
 - 📫 How to reach me **kaykang84@gmail.com**
+
 
 - ⚡ Fun fact **I think I'm handsome😎**
 
