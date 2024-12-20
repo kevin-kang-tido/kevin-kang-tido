@@ -38,11 +38,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kay-Kang/Kay-Kang/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kevin-kang-tido/kevin-kang-tido/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Kay-Kang/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/kevin-kang-tido/count.svg?"  />
 </div>
 
