@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">
-  Go to my Old Github 
+  Go to my New Github 
   <a href="https://github.com/Kay-Kang" target="_blank">Kay-Kang</a>
 </h3>
 
