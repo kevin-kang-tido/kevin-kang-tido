@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">
-  Go to my Porfolio webssite
+  Go to my Porfolio website
   <a href="https://kay-kang-porfolio.vercel.app/" target="_blank">Kay-Kang-Porfolio</a>
 </h3>
 <h3 align="left">
